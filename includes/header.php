@@ -137,9 +137,9 @@ session_start();
                         </div>
 
                         <div class="nav">
-                            <a class="nav-link" href="<?= RUTA_GENERAL; ?>source/ingresar.php">
+                            <a class="nav-link" href="<?= RUTA_GENERAL; ?>source/admin/listar_postulantes.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-user"></i></div>
-                                Crear Postulantes
+                                Listar Postulantes
                             </a>
                         </div>
                         <div class="nav">
